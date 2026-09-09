@@ -7,8 +7,8 @@ export default function App () {
         //renderização na viewport
         <>
         <h1>Introdução ao React</h1>
-        <Decrement></Decrement>
         <Increment/>
+        <Decrement></Decrement>
         </>
     )
 }
